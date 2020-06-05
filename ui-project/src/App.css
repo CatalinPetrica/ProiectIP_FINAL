@@ -1,0 +1,14 @@
+.margin-top {
+  margin-top: 100px;
+}
+.content {
+  margin-left: 60px!important;
+  height: 900px;
+  background: orange;
+  width: auto!important;
+}
+.h1{
+  color: #ecec0d;
+
+
+}
