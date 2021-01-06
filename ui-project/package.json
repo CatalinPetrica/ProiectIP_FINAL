@@ -43,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "reactstrap": "^8.4.1"
   },
   "proxy": "http://13.58.63.43:8080/wearablehealth"
